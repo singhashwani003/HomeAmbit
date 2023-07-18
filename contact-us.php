@@ -12,14 +12,14 @@
 
     <div class="circle-contact"></div>
     <div class="side-tri-con">
-        <img src="images/side-tri (1).png" alt="">
+        <!-- <img src="images/side-tri (1).png" alt=""> -->
     </div>
     <!-- <div class="square-contact"></div> -->
     
     <!-- <div class="square1"></div> -->
     <div class="rectangle-contact"></div>
     <div class="triangle-contact"></div>
-    <img src="images/contact_lap.png">
+    <img src="images/imageedit_0_7963303035.png">
 </div>
 <div class="col-md-6 mt2">
     <form  id="getintouch">
