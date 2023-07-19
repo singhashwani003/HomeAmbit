@@ -483,11 +483,11 @@
                                     <div class="flip-card">
                                         <div class="flip-card-inner">
                                             <div class="flip-card-front">
-                                                <img src="images/cor.png" style="width:100%; height:auto;">
+                                                <img src="images/rental.png" style="width:100%; height:auto;">
         
                                             </div>
                                             <div class="flip-card-back">
-                                                <img src="images/cor.png" style="width:100%; height:auto;">
+                                                <img src="images/rental.png" style="width:100%; height:auto;">
         
                                             </div>
                                         </div>
@@ -514,11 +514,11 @@
                                     <div class="flip-card">
                                         <div class="flip-card-inner">
                                             <div class="flip-card-front">
-                                                <img src="images/ext.png" style="width:100%; height:auto;">
+                                                <img src="images/dedicate.png" style="width:100%; height:auto;">
         
                                             </div>
                                             <div class="flip-card-back">
-                                                 <img src="images/ext.png" style="width:100%; height:auto;">
+                                                 <img src="images/dedicate.png" style="width:100%; height:auto;">
         
                                             </div>
                                         </div>
@@ -545,11 +545,11 @@
                                         <div class="flip-card">
                                             <div class="flip-card-inner">
                                                 <div class="flip-card-front">
-                                                    <img src="images/online.png" style="width:100%; height:auto;">
+                                                    <img src="images/24.png" style="width:100%; height:auto;">
             
                                                 </div>
                                                 <div class="flip-card-back">
-                                                    <img src="images/online.png" style="width:100%; height:auto;">
+                                                    <img src="images/24.png" style="width:100%; height:auto;">
             
                                                 </div>
                                             </div>
@@ -601,7 +601,7 @@
                                     <h5 class="mt-0 text-start ever5"><span class="ever">This is the standard package – we find a potential tenant for your property and we will execute the rental agreement.To Know more contact our Relationship Manager</span></h5>
                                     <h6 class="step5 fw-bold mt-4" style="color: #f54646;">PROPERTY MANGEMENT SERVICES :</h6>
                                     <h5 class="mt-0 text-start ever5"><span class="ever">We fulfill all your rental needs by finding you the right tenant. A dedicated Property Manager will be present throughout the lifecycle of rental leasing period.</span></h5>
-                                    <a href="#" class="text-start">
+                                    <a href="contact-us.php" class="text-start">
                                         <h5 class="text-start">List your property with us <br><span class="fw-bolder">NOW <img src="images/right-arrow.png" style="width: 80px; height: 40px;"></h5>
                                     </a>
                                 </div>
@@ -610,7 +610,7 @@
                                     <h5 class="mt-0 text-start ever5"><span class="ever">This is the standard package – we find a potential tenant for your property and we will execute the rental agreement.To Know more contact our Relationship Manager</span></h5>
                                     <h6 class="step5 fw-bold mt-4" style="color: #f54646;">PROPERTY MANGEMENT SERVICES :</h6>
                                     <h5 class="mt-0 text-start ever5"><span class="ever">We fulfill all your rental needs by finding you the right tenant. A dedicated Property Manager will be present throughout the lifecycle of rental leasing period.</span></h5>
-                                    <a href="#" class="text-start">
+                                    <a href="contact-us.php" class="text-start">
                                         <h5 class="text-start margin">List your property with us <br><span class="fw-bolder">NOW <img src="images/right-arrow.png" style="width: 80px; height: 40px;"></h5>
                                     </a>
                                 </div>
@@ -749,7 +749,7 @@
                                             <div class="col-sm-8">
                                                 <p>"I have subscribed to the paid listing services and I am very happy with their services. One point that I would like to highlight about Homeambit is that they keep our data(leads) confidential, which is very important for us. Homeambit work in professional manner. I have tried other real estate portals also (paid services), but they do not maintain data confidentiality.<br>Thanks again. Keep up this momentum in future also... "
                                                 </p>
-                                                <h6 style="margin-top: 10px;font-weight: 600;">Vivek Chandra , Banglore</h6>
+                                                <h6 style="margin-top: 10px;font-weight: 600;">Vivek Chandra , Bangalore</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -793,7 +793,7 @@
                                             <div class="col-sm-8">
                                                 <p>"I want to take a moment to thank you for the services offered to me as part of your Owner Assist plan to get a tenant for my flat. I truly appreciate your professionalism - following up on all leads and keeping me updated daily as per my request. In the current Covid situation, you made things pretty seamless and got me a promising tenant in a week. I have had a positive experience and would definitely recommend Homeambit to my family and friends and come back too in future again."
                                                 </p>
-                                                <h6 style="margin-top: 10px;font-weight: 600;"><span style="text-transform: uppercase;">Shaji </span>, Banglore</h6>
+                                                <h6 style="margin-top: 10px;font-weight: 600;"><span style="text-transform: uppercase;">Shaji </span>, Bangalore</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -808,14 +808,14 @@
                                             <div class="col-sm-3">
                                                 <div class="text-center">
                                                     <div class="testing-box-hc">
-                                                        <img src="images/testimonials-1.jpg">
+                                                        <img src="images/testimonials-5.jpg">
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-sm-8">
                                                 <p>"We must say this is an amazing package your company has created. That rendered lighting quality. We wish to especially thank homeambit for the courteous and efficient way of marketing all our projects and for their attention to detail. We would have no hesitation in recommending them to any other sellers. <br> While looking for a more mutually rewarding relationship , we would like to thank the entire team. <br> Well done and keep up the good work!"
                                                 </p>
-                                                <h6 style="margin-top: 10px;font-weight: 600;"><span style="text-transform: uppercase;">S. Sabharinath </span>, Banglore</h6>
+                                                <h6 style="margin-top: 10px;font-weight: 600;"><span style="text-transform: uppercase;">S. Sabharinath </span>, Bangalore</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -932,7 +932,7 @@
                         <div class="card card-pref p-3">
                             <div class="card-body d-flex flex-column justify-content-center align-items-center">
                                 <div class="img-pref">
-                                    <img src="images/cor.png" style="width:100%; height:auto;">
+                                    <img src="images/rental.png" style="width:100%; height:auto;">
                                 </div>
                                 <h5 class="prefrence mt-3  text-danger fw-bolder">Expert Guidance</h5>
                                 <p class="prefrence-p mt-2">Industry experts to help you make smart property decisions</p>

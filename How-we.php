@@ -112,11 +112,11 @@
                                     <div class="flip-card">
                                         <div class="flip-card-inner">
                                             <div class="flip-card-front">
-                                                <img src="images/cor.png" style="width:100%; height:auto;">
+                                                <img src="images/rental.png" style="width:100%; height:auto;">
         
                                             </div>
                                             <div class="flip-card-back">
-                                                <img src="images/cor.png" style="width:100%; height:auto;">
+                                                <img src="images/rental.png" style="width:100%; height:auto;">
         
                                             </div>
                                         </div>
@@ -143,11 +143,11 @@
                                     <div class="flip-card">
                                         <div class="flip-card-inner">
                                             <div class="flip-card-front">
-                                                <img src="images/ext.png" style="width:100%; height:auto;">
+                                                <img src="images/dedicate.png" style="width:100%; height:auto;">
         
                                             </div>
                                             <div class="flip-card-back">
-                                                 <img src="images/ext.png" style="width:100%; height:auto;">
+                                                 <img src="images/dedicate.png" style="width:100%; height:auto;">
         
                                             </div>
                                         </div>
@@ -174,11 +174,11 @@
                                         <div class="flip-card">
                                             <div class="flip-card-inner">
                                                 <div class="flip-card-front">
-                                                    <img src="images/online.png" style="width:100%; height:auto;">
+                                                    <img src="images/24.png" style="width:100%; height:auto;">
             
                                                 </div>
                                                 <div class="flip-card-back">
-                                                    <img src="images/online.png" style="width:100%; height:auto;">
+                                                    <img src="images/24.png" style="width:100%; height:auto;">
             
                                                 </div>
                                             </div>
@@ -230,7 +230,7 @@
                                     <h5 class="mt-0 text-start ever5"><span class="ever">This is the standard package – we find a potential tenant for your property and we will execute the rental agreement.To Know more contact our Relationship Manager</span></h5>
                                     <h6 class="step5 fw-bold mt-4" style="color: #f54646;">PROPERTY MANGEMENT SERVICES :</h6>
                                     <h5 class="mt-0 text-start ever5"><span class="ever">We fulfill all your rental needs by finding you the right tenant. A dedicated Property Manager will be present throughout the lifecycle of rental leasing period.</span></h5>
-                                    <a href="#" class="text-start">
+                                    <a href="contact-us.php" class="text-start">
                                         <h5 class="text-start">List your property with us <br><span class="fw-bolder">NOW <img src="images/right-arrow.png" style="width: 80px; height: 40px;"></h5>
                                     </a>
                                 </div>
@@ -239,7 +239,7 @@
                                     <h5 class="mt-0 text-start ever5"><span class="ever">This is the standard package – we find a potential tenant for your property and we will execute the rental agreement.To Know more contact our Relationship Manager</span></h5>
                                     <h6 class="step5 fw-bold mt-4" style="color: #f54646;">PROPERTY MANGEMENT SERVICES :</h6>
                                     <h5 class="mt-0 text-start ever5"><span class="ever">We fulfill all your rental needs by finding you the right tenant. A dedicated Property Manager will be present throughout the lifecycle of rental leasing period.</span></h5>
-                                    <a href="#" class="text-start">
+                                    <a href="contact-us.php" class="text-start">
                                         <h5 class="text-start margin">List your property with us <br><span class="fw-bolder">NOW <img src="images/right-arrow.png" style="width: 80px; height: 40px;"></h5>
                                     </a>
                                 </div>
