@@ -3334,6 +3334,14 @@ display: none;
     }
 }*/
 @media (max-width: 576px) {
+#chatbot-container{
+        z-index: 1!important;
+        width: 100%!important;
+        height: 50px!important;
+        position: fixed!important;
+        bottom: 220px!important;
+        right: 18px!important;
+}
 .gap {
      padding: 0px 15px;
      margin-top: 3rem;
