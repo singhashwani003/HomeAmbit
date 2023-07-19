@@ -3339,8 +3339,8 @@ display: none;
         width: 100%!important;
         height: 50px!important;
         position: fixed!important;
-        bottom: 220px!important;
-        right: 18px!important;
+        bottom: 0!important;
+        right: 0!important;
 }
 .gap {
      padding: 0px 15px;
